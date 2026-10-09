@@ -46,3 +46,4 @@ Street and amenity data: © OpenStreetMap contributors, available under the Open
 Basemap: © OpenFreeMap, © OpenMapTiles, data from OpenStreetMap.
 
 Based on the open-source project "15 minutes. For whom?" by Martin Bangratz (MIT licence, see `LICENSE`). The `vendor/` folder holds unmodified copies of MapLibre GL JS (BSD-3-Clause) and the leaflet-maplibre-gl bridge (ISC), each with its own licence file. Leaflet is loaded from cdnjs.
+ 
